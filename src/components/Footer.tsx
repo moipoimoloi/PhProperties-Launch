@@ -65,7 +65,6 @@ export function Footer() {
           <ul className="flex flex-col gap-2 list-none p-0">
             <li><a className="text-body-md text-on-surface-variant hover:text-primary hover:underline" href="#about">About</a></li>
             <li><a className="text-body-md text-on-surface-variant hover:text-primary hover:underline" href="#testimonials">Stories</a></li>
-            <li><a className="text-body-md text-on-surface-variant hover:text-primary hover:underline" href="#faq">FAQ</a></li>
             <li><a className="text-body-md text-on-surface-variant hover:text-primary hover:underline" href="#contact">Contact</a></li>
             <li><a className="text-body-md text-on-surface-variant hover:text-primary hover:underline" href="#privacy">Privacy Notice</a></li>
           </ul>
